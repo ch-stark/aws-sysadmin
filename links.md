@@ -4,3 +4,4 @@ https://www.awslagi.com/aws-sysops-practice-questions-part-1/
 https://fliphtml5.com/vsnps/pngf/basic
 
 https://www.youtube.com/channel/UCPnZlMwn3mQkuFSZwZKtP0Q/videos
+https://www.youtube.com/watch?v=KX_AfyrhlgQ&feature=youtu.be
