@@ -5,3 +5,6 @@ https://fliphtml5.com/vsnps/pngf/basic
 
 https://www.youtube.com/channel/UCPnZlMwn3mQkuFSZwZKtP0Q/videos
 https://www.youtube.com/watch?v=KX_AfyrhlgQ&feature=youtu.be
+
+C. A default Amazon VPC has a netmask of /20. It comes with an Internet gateway and a
+route table refl ecting that Internet gateway. NAT and VPN can be added to the default VPC.
