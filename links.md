@@ -16,3 +16,8 @@ http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Route_Tables.html
 
 
 https://www.examtopics.com/exams/amazon/aws-sysops/view/50/
+
+
+https://aws.amazon.com/premiumsupport/knowledge-center/vpc-peering-connectivity/
+
+VPC peering network connectivity failures are typically the result of incorrect or missing route tables or firewall rules. VPCs in a peering connection must be able to communicate with each other as if they are within the same network to route traffic between them using private IP addresses.
