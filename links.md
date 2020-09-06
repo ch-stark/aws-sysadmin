@@ -13,3 +13,6 @@ route table refl ecting that Internet gateway. NAT and VPN can be added to the d
 Every subnet in your VPC must be associated with exactly one route table at a time. However, the same route table can be associated with multiple subnets.
 Reference:
 http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Route_Tables.html
+
+
+https://www.examtopics.com/exams/amazon/aws-sysops/view/50/
