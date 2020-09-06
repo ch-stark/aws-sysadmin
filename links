@@ -21,3 +21,18 @@ https://www.examtopics.com/exams/amazon/aws-sysops/view/50/
 https://aws.amazon.com/premiumsupport/knowledge-center/vpc-peering-connectivity/
 
 VPC peering network connectivity failures are typically the result of incorrect or missing route tables or firewall rules. VPCs in a peering connection must be able to communicate with each other as if they are within the same network to route traffic between them using private IP addresses.
+
+
+Straight from AWS Sample Exam Questions:
+An ecommerce company wants to lower costs on its nightly jobs that aggregate the current day's
+sales and store the results in Amazon S3. The jobs run on multiple on-demand instances, and the jobs
+take just under 2 hours to complete. The jobs can run at any time during the night. If the job fails for any
+reason, it needs to be started from the beginning.
+Which solution is the MOST cost-effective based on these requirements?
+A) Purchase Reserved Instances.
+B) Submit a request for a Spot block.
+C) Submit a request for all Spot Instances.
+D) Use a mixture of On-Demand and Spot Instances.
+
+B – The solution will take advantage of Spot pricing, but by using a Spot block instead of Spot Instances, the
+company can be assured the job will not be interrupted.
