@@ -43,3 +43,6 @@ company can be assured the job will not be interrupted.
 - scale Databases
 
 
+A Virtual Private Cloud (VPC) is a virtual network dedicated to the users AWS account. A user can create a subnet with VPC and launch instances inside that subnet. If the user has created a public private subnet, the instances in the public subnet can receive inbound traffic directly from the Internet, whereas the instances in the private subnet cannot. If these subnets are created with Wizard, AWS will create a NAT instance with an elastic IP. If the user is trying to delete the VPC it will not allow as the NAT instance is still running.
+
+
