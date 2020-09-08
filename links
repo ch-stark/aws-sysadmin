@@ -52,3 +52,6 @@ https://github.com/aws-samples/aws-systems-manager-cloudformation-samples
 Amazon EBS snapshots have which of the following two characteristics? (Choose two.)
 A. EBS snapshots only save incremental changes from snapshot to snapshot
 B. EBS snapshots can be created in real-time without stopping an EC2 instance
+
+
+https://docs.aws.amazon.com/amazonglacier/latest/dev/vault-lock-policy.html
